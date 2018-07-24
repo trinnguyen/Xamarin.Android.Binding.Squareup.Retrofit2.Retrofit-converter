@@ -1,0 +1,1 @@
+# Xamarin.Android.Binding.Squareup.Retrofit2.Retrofit-converter
